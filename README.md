@@ -4,7 +4,7 @@ A simple web page listing major web browsers with a short description of each, b
 
 ## Live Demo
 
-[View the project](https://aqeelahlabs.github.io/YOUR-REPO-NAME/)
+ https://aqeelahlabs.github.io/A-List-of-Major-Web-Browsers-HTML/
 
 ## Features
 
