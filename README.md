@@ -27,7 +27,7 @@ A simple web page listing major web browsers with a short description of each, b
 
 1. Clone the repository:
 ```
-   git clone https://github.com/aqeelahlabs/YOUR-REPO-NAME.git
+   https://github.com/aqeelahlabs/A-List-of-Major-Web-Browsers-HTML.git
 ```
 2. Open `index.html` in your browser.
 
